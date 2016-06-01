@@ -25,3 +25,13 @@ Then set up the sphinx project:
 
 
 This will step you through several options. You can mostly keep the defaults.
+
+
+"live" html
+-----------
+
+Paste this into ``docs/Makefile``:
+
+.. code-block:: bash
+    livehtml:
+        sphinx-autobuild -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
