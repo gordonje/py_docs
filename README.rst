@@ -7,6 +7,8 @@ A walk-through of Python documentation tools, including:
 2. `Sphinx <http://www.sphinx-doc.org/en/stable/>`_
 3. `ReadTheDocs <https://readthedocs.org/>`_
 
+This is a pretty good ``video tutorial <https://www.youtube.com/watch?v=oJsUvBQyHBs>``_.
+
 Setting up
 ----------
 
