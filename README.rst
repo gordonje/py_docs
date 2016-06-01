@@ -1,0 +1,27 @@
+py_docs
+=======
+
+A walk-through of Python documentation tools, including:
+
+1. Docutils and `reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
+2. `Sphinx <http://www.sphinx-doc.org/en/stable/>`_
+3. `ReadTheDocs <https://readthedocs.org/>`_
+
+Setting up
+----------
+
+Install the requirements:
+
+.. code-block:: bash
+
+    $ pip install -r requirements.txt
+
+
+Then set up the sphinx project:
+
+.. code-block:: bash
+
+    $ sphinx-quickstart
+
+
+This will step you through several options. You can mostly keep the defaults.
